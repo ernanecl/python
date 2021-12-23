@@ -7,6 +7,6 @@
 library for video and audio editing
 
 moviepy installation
-pip install moviepy
+#### pip install moviepy
 
 * tip: run the python file where you find the video
